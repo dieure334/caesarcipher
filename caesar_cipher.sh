@@ -1,8 +1,8 @@
 #!/bin/bash
 
-# Diego G. Ureno
-# Assignment 4 - Shell Scripting
-# CS-497 - Linux Programming
+# Created by: Diego G. Ureno
+# California State University, East Bay
+# July 7, 2023
 
 # Main Menu Function
 main_menu() {
