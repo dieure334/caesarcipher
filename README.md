@@ -1,5 +1,5 @@
 # caesarcipher
-A looping-menu shell script that can read files and perform the Caesar Cipher as well as its special case, ROT13. This is done by using the translate command (__*tr*__), which allows for the shifting of characters. Input must be a text file or some other source of text. This script was created as part of an assignment for a Linux Programming class.
+A looping-menu shell script that can read files and perform the Caesar Cipher as well as its special case, ROT13. This is done by using the translate command (__*tr*__), which allows for the shifting of characters. Input must be a text file or some other source of text.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------
 
